@@ -1,0 +1,11 @@
+Model Information:
+* title:	door handle HP
+* source:	https://sketchfab.com/3d-models/door-handle-hp-be27c21242ed48de9cd4bfb859167b6b
+* author:	Brido (https://sketchfab.com/Brido)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "door handle HP" (https://sketchfab.com/3d-models/door-handle-hp-be27c21242ed48de9cd4bfb859167b6b) by Brido (https://sketchfab.com/Brido) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
